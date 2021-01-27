@@ -1,0 +1,126 @@
+background{
+    position: absolute;
+    width: 1280px;
+    height: 1028px;
+    left: 80px;
+    top: 194px;
+    background: linear-gradient(180deg, #180F33 0%, #220863 100%);
+}
+
+.cadastro{
+/* Cadastro */
+position: absolute;
+width: 193px;
+height: 50px;
+left: 158px;
+top: 256px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 50px;
+/* identical to box height */
+color: #FFFFFF;
+}
+
+.botãoVoltar{
+/* voltar */
+position: absolute;
+width: 43px;
+height: 19px;
+left: 1239px;
+top: 271px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: right;
+text-decoration-line: underline;
+color: #FFFFFF;
+opacity: 0.5;
+}
+
+.textoDados{
+/* 1. Dados para acesso */
+position: absolute;
+width: 226px;
+height: 28px;
+left: 478px;
+top: 409px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+color: rgba(255, 255, 255, 0.6);
+}
+
+.textoNome{
+    /* Seu nome */
+position: absolute;
+width: 112px;
+height: 28px;
+left: 478px;
+top: 505px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+color: #FFFFFF;
+}
+
+.caixaNome{
+    /* Rectangle 10 */
+position: absolute;
+width: 279px;
+height: 40px;
+left: 682px;
+top: 499px;
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.textoCelular{
+    /* Celular */
+position: absolute;
+width: 78px;
+height: 28px;
+left: 478px;
+top: 578px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+color: #FFFFFF;
+}
+
+.caixaCelular{
+    /* Rectangle 2 */
+position: absolute;
+width: 279px;
+height: 40px;
+left: 682px;
+top: 572px;
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.textoCaixaC{
+    /* DDD + número */
+position: absolute;
+width: 109px;
+height: 19px;
+left: 694px;
+top: 582px;
+font-family: Rubik;
+font-style: italic;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+color: #B1B1B1;
+}
